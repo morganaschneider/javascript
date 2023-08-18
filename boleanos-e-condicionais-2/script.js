@@ -5,8 +5,8 @@
 var expressao = (5 - 2) && (5 - ' ') && (5 - 2);
 
 // Verifique se as seguintes variáveis são Truthy ou Falsy
-var nome = 'Andre';
-var idade = 28;
+var nome = 'Morgana';
+var idade = 27;
 var possuiDoutorado = false;
 var empregoFuturo;
 var dinheiroNaConta = 0;
